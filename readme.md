@@ -1,5 +1,4 @@
-## Welcome to git
+## hello git
 
--This is coming from "dev-shariq"
-
+-YOO Johny here
 -Im adding this from 'feature-branch'
